@@ -1,0 +1,11 @@
+{
+    "name": "squeeker-bot",
+    "version": "1.0.0",
+    "description": "Assistant Bot",
+    "main": "bot.js",
+    "author": "c-anastacio",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "nodemon": "^2.0.7"
+    }
+}
